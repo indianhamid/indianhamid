@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hamid (indianhamid)
 
-<!--
-**indianhamid/indianhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / MERN Developer focused on **React (Vite)**, **Tailwind**, **Node.js/Express**, and **MongoDB**.  
+I build landing pages, fix UI bugs, and implement full‑stack features.
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Twitter/X Clone (Full‑Stack MERN)**  
+  Repo: https://github.com/indianhamid/twitter  
+  Demo: https://twitter-x-rxpp.onrender.com/signup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Coffee Landing Template**  
+  Repo: https://github.com/indianhamid/coffee_template  
+  Demo: https://coffee-template-rho.vercel.app/
+
+## What I can help with
+- Frontend bug fixes (React / Tailwind / Vite)
+- Landing pages (responsive + clean UI)
+- MERN tasks (Express APIs, auth, MongoDB)
+- EN → FA translation (tech / product / docs) + post‑editing with AI
+
+## Contact
+- Telegram: [(your link)](https://t.me/indianhamid)
+- Email: hamid.hendizadeh@gmail
+- Timezone: Asia/Tehran (UTC+3:30)
+
+## Payment
+- Crypto: **USDT (TRC20)**
